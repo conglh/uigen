@@ -50,6 +50,5 @@ next-env.d.ts
 /prisma/dev.db
 /prisma/dev.db-journal
 
-.claude
 .idea
 .playwright-mcp
